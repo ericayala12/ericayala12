@@ -119,7 +119,3 @@
 <p align="left">📧 Email: erickayaalaa@gmail.com</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ericayala12/ericayala12/output/snake.svg" alt="Snake animation" />
-
-###
